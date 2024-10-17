@@ -8,15 +8,19 @@ Download the dlib models from https://drive.google.com/drive/folders/1jOeiYe6OwR
 
 # #Usage
 Collect the Faces Dataset by running python: Registration
+
 https://drive.google.com/file/d/1p9db70192ED4ngFY0k1FCkHkPm9tNMl9/view?usp=drive_link
 
 Convert the dataset into python: traning_feature extration_code
+
 https://drive.google.com/file/d/1sIE2-CoyfYsX4MQerWaw1orsdEuoubgB/view?usp=drive_link
 
 To  recognization run python: face_recognization
+
 https://drive.google.com/file/d/1FBSYoddzmhRDdG9uu2YKFk9KxOXG008o/view?usp=drive_link
 
 Check the Database by python: Daily_log_checker
+
 https://drive.google.com/file/d/1HnBAjr-DHYG-0SMa-WywdfT-QP4mva6I/view?usp=drive_link
 
 # #Contributing
